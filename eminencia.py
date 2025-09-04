@@ -1,4 +1,4 @@
-# --- Datos en memoria (seed inicial, ~100 ítems) ---
+# Datos de produtos (simulando una base de datos)
 productos = [
     {"sku":"PROT-001","nombre":"Whey Protein","sabor":"Vainilla","categoria":"Proteínas","precio":29999.0,"stock":20},
     {"sku":"PROT-002","nombre":"Whey Protein","sabor":"Chocolate","categoria":"Proteínas","precio":29999.0,"stock":15},
